@@ -8,11 +8,11 @@ Bubble sort is a sorting algorithm that can be used to sort an array of numbers.
 
 ### Iteration 1
 
-![bubble1](../images/bubble-sort/1.jpg)
+![bubble1](0-images/bubble-sort/1.png)
 
 ### Iteration 2
 
-![bubble2](../images/bubble-sort/2.jpg)
+![bubble2](0-images/bubble-sort/2.png)
 
 ## Notes
 
